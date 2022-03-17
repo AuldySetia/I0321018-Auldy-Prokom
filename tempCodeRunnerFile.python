@@ -1,0 +1,5 @@
+print('program bilangan byte')
+a= int(input('masukkan angka pertama= '))
+b= int(input('masukkan angka kedua= '))
+Jumlah = a+b
+print('nilai penjumlahan=',Jumlah)
